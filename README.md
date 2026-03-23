@@ -6,7 +6,7 @@ A full-stack web application to manage compliance tasks for multiple clients.
 
 ## 1. Live Links
 
-### URL =
+### URL = https://mini-compliance-tracker-rust.vercel.app/
 
 ---
 
@@ -15,7 +15,7 @@ A full-stack web application to manage compliance tasks for multiple clients.
 ### Clone repo
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ny78455/mini-compliance-tracker
 cd mini-compliance-tracker
 ```
 
